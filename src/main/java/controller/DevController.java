@@ -10,7 +10,7 @@ public class DevController {
 
     }
     public static void s(String[] args) {
-
+        System.out.println("t la b3 1");
 
     }
     public static void s4(String[] args) {
