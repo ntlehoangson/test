@@ -5,7 +5,7 @@ public class DevController {
         System.out.println("p1");
         System.out.println("dev commit1");
         System.out.println("dev commit2");
-        System.out.println("p2 brand" );
+        System.out.println("p2 brand");
         System.out.println("again");
         System.out.println("p3-1");
         System.out.println("p3-2");
@@ -15,6 +15,7 @@ public class DevController {
         System.out.println("again1");
         System.out.println("Dev3");
         System.out.println("Dev4");
+        System.out.println("Dev5");
 
     }
 
