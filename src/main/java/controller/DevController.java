@@ -11,9 +11,20 @@ public class DevController {
         System.out.println("dev3 3 ");
         System.out.println("dev3 4 ");
         System.out.println(4);
+        System.out.println(4);
+        System.out.println(4);
 
     }
     public static void s(String[] args) {
+        System.out.println("t la b3 1");
+        System.out.println("t la b3 2");
+
+        System.out.println("t la b3 1");
+        System.out.println("t la b3 2");
+
+        System.out.println("t la b3 1");
+
+         System.out.println("t la b3 2");
 
 
     }
