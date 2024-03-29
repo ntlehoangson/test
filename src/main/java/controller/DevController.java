@@ -11,6 +11,7 @@ public class DevController {
         System.out.println("dev3 3 ");
         System.out.println("dev3 4 ");
         System.out.println(4);
+        System.out.println(4);
 
     }
     public static void s(String[] args) {
