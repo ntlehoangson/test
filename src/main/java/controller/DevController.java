@@ -20,6 +20,7 @@ public class DevController {
         System.out.println("p4 add");
         System.out.println("p4_1 merger 1");
         System.out.println("p4_1 merger 2");
+        System.out.println("p4_1 merger 3");
 
     }
 
