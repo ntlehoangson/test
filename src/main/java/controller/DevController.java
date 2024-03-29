@@ -7,6 +7,8 @@ public class DevController {
         System.out.println("dev commit2");
         System.out.println("p2 brand" );
         System.out.println("again");
+        System.out.println("p3-1");
+        System.out.println("p3-2");
         System.out.println("dev1");
         System.out.println("dev2");
 
