@@ -13,6 +13,7 @@ public class DevController {
         System.out.println("dev2");
 
         System.out.println("again1");
+        System.out.println("p4_1 merger 1");
 
     }
 
