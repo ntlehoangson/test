@@ -16,6 +16,7 @@ public class DevController {
     }
     public static void s(String[] args) {
         System.out.println("t la b3 1");
+        System.out.println("t la b3 1");
         System.out.println("t la b3 2");
 
 
