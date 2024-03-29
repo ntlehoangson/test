@@ -14,6 +14,7 @@ public class DevController {
 
         System.out.println("again1");
         System.out.println("p4_1 merger 1");
+        System.out.println("p4_1 merger 2");
 
     }
 
