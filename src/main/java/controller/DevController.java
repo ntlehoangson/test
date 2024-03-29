@@ -22,7 +22,6 @@ public class DevController {
         System.out.println("t la b3 1");
         System.out.println("t la b3 2");
 
-         System.out.println("t la b3 2");
         System.out.println("t la b3 1");
         System.out.println("t la b3 2");
 
