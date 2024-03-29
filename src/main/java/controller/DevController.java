@@ -6,7 +6,7 @@ public class DevController {
     }
     public static void main(String[] args) {
         System.out.println(23);
-        System.out.println(3);
+        System.out.println("dev1");
 
     }
     public static void s(String[] args) {
