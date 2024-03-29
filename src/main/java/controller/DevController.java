@@ -5,6 +5,10 @@ public class DevController {
 
 
     }
+    public static void s(String[] args) {
+
+
+    }
 
 
 }
