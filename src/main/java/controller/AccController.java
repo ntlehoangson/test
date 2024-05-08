@@ -9,4 +9,7 @@ public class AccController {
         System.out.println("m2");
         System.out.println("m3");
     }
+    public static void main1(String[] args) {
+        System.out.println("main1");
+    }
 }
